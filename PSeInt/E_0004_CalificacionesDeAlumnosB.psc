@@ -72,7 +72,7 @@ SubProceso v<-ObtenerNumero()
 FinSubProceso
 
 
-Algoritmo sin_titulo
+Algoritmo CalificacionesDeAlumnos
 	Repetir
 		Escribir "Numero de estudiantes a evaluar";
 		n<-ObtenerNumero();//pedimos el numero y lo validamos desde la entrada estandar
