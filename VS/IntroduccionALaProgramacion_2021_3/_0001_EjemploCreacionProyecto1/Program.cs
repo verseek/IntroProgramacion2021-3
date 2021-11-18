@@ -14,6 +14,8 @@ namespace _0001_EjemploCreacionProyecto1
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            int abcdefghijk = 0;
+            int x = abcdefghijk;
             //codigo
             //Escribir "HOLA MUNDO";
             Console.WriteLine("HOLA MUNDO");
@@ -34,5 +36,10 @@ namespace _0001_EjemploCreacionProyecto1
         //{
         //    //codigo
         //}
+
+
+        public void metodo() { 
+        
+        }
     }
 }

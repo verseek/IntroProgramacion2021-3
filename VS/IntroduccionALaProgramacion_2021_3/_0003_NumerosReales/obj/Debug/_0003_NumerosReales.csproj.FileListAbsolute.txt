@@ -1,0 +1,7 @@
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\bin\Debug\_0003_NumerosReales.exe.config
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\bin\Debug\_0003_NumerosReales.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\bin\Debug\_0003_NumerosReales.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\obj\Debug\_0003_NumerosReales.csproj.AssemblyReference.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\obj\Debug\_0003_NumerosReales.csproj.CoreCompileInputs.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\obj\Debug\_0003_NumerosReales.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0003_NumerosReales\obj\Debug\_0003_NumerosReales.pdb

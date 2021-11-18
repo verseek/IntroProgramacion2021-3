@@ -1,0 +1,6 @@
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\bin\Debug\_0005_Caracter.exe.config
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\bin\Debug\_0005_Caracter.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\bin\Debug\_0005_Caracter.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\obj\Debug\_0005_Caracter.csproj.CoreCompileInputs.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\obj\Debug\_0005_Caracter.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0005_Caracter\obj\Debug\_0005_Caracter.pdb

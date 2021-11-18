@@ -10,6 +10,42 @@ namespace _0001_EjemploCreacionProyecto2
     {
         static void Main(string[] args)
         {
+            //Datos Caracter (Alfanumerico o cadenas)
+            //Logicos
+            //Numeros
+            // * Enteros
+            // * Reales
+
+
+            //Arreglos
+            int a = 1234;
+            System.Int32 b = 1234;
+            Int32 c = 1234;
+
+            Console.WriteLine(a);
+            Console.WriteLine(a);
+           
+            
+            
+            
+            
+            
+            Console.WriteLine(a);
+            Console.WriteLine(a);
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            Console.WriteLine(a);
+            Console.WriteLine(a);
+
         }
     }
 }

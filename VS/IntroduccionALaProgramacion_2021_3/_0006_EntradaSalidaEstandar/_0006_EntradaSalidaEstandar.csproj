@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A302CEC-708E-43FC-8BDD-3C59328FD411}</ProjectGuid>
+    <ProjectGuid>{39C5D239-850B-4836-88C9-EAE372C20E54}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0001_EjemploCreacionProyecto1</RootNamespace>
-    <AssemblyName>_0001_EjemploCreacionProyecto1</AssemblyName>
+    <RootNamespace>_0006_EntradaSalidaEstandar</RootNamespace>
+    <AssemblyName>_0006_EntradaSalidaEstandar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject />
+    <StartupObject>_0006_EntradaSalidaEstandar._0002_WriteLineDatosVariableRemplasos</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="otroArchivo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_0001_WriteLine_SaltoDeLineaRetornoDeCarro.cs" />
+    <Compile Include="_0002_WriteLineDatosVariableRemplasos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

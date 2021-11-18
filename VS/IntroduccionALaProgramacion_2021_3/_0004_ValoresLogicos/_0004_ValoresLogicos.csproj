@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A302CEC-708E-43FC-8BDD-3C59328FD411}</ProjectGuid>
+    <ProjectGuid>{F4B065F4-BA90-4ED6-ABB1-916843130BE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0001_EjemploCreacionProyecto1</RootNamespace>
-    <AssemblyName>_0001_EjemploCreacionProyecto1</AssemblyName>
+    <RootNamespace>_0004_ValoresLogicos</RootNamespace>
+    <AssemblyName>_0004_ValoresLogicos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

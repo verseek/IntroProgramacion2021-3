@@ -1,0 +1,7 @@
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\bin\Debug\_0001_EjemploCreacionProyecto2.exe.config
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\bin\Debug\_0001_EjemploCreacionProyecto2.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\bin\Debug\_0001_EjemploCreacionProyecto2.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\obj\Debug\_0001_EjemploCreacionProyecto2.csproj.AssemblyReference.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\obj\Debug\_0001_EjemploCreacionProyecto2.csproj.CoreCompileInputs.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\obj\Debug\_0001_EjemploCreacionProyecto2.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0001_EjemploCreacionProyecto2\obj\Debug\_0001_EjemploCreacionProyecto2.pdb
