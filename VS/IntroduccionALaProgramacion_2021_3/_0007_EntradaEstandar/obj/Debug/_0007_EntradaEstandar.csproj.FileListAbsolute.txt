@@ -1,0 +1,9 @@
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\obj\Debug\_0007_EntradaEstandar.csproj.CoreCompileInputs.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\bin\Debug\_0007_EntradaEstandar.exe.config
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\bin\Debug\_0007_EntradaEstandar.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\bin\Debug\_0007_EntradaEstandar.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\obj\Debug\_0007_EntradaEstandar.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\obj\Debug\_0007_EntradaEstandar.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\obj\Debug\_0007_EntradaEstandar.csproj.AssemblyReference.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\bin\Debug\Origen.txt
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_0007_EntradaEstandar\bin\Debug\Origen2.txt

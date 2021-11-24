@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_0006_EntradaSalidaEstandar._0002_WriteLineDatosVariableRemplasos</StartupObject>
+    <StartupObject>_0006_EntradaSalidaEstandar._0003_WriteLineFormato</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_0001_WriteLine_SaltoDeLineaRetornoDeCarro.cs" />
     <Compile Include="_0002_WriteLineDatosVariableRemplasos.cs" />
+    <Compile Include="_0003_WriteLineFormato.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
