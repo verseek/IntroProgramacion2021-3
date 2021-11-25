@@ -1,0 +1,7 @@
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\bin\Debug\_008_EstructurasControlFlujo.exe.config
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\bin\Debug\_008_EstructurasControlFlujo.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\bin\Debug\_008_EstructurasControlFlujo.pdb
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\obj\Debug\_008_EstructurasControlFlujo.csproj.AssemblyReference.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\obj\Debug\_008_EstructurasControlFlujo.csproj.CoreCompileInputs.cache
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\obj\Debug\_008_EstructurasControlFlujo.exe
+C:\tt\VS\IntroduccionALaProgramacion_2021_3\_008_EstructurasControlFlujo\obj\Debug\_008_EstructurasControlFlujo.pdb

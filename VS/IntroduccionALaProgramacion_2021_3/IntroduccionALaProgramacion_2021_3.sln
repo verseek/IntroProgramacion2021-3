@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0006_EntradaSalidaEstandar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0007_EntradaEstandar", "_0007_EntradaEstandar\_0007_EntradaEstandar.csproj", "{5AEF52F4-ADA5-4A4F-8158-9B7255805CAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0008_EstructurasControlFlujo", "_008_EstructurasControlFlujo\_0008_EstructurasControlFlujo.csproj", "{AF8AF75B-3A89-4FF7-83CC-F7AC6E01E7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0009_EstructurasControlIterativo", "_0009_EstructurasControlIterativo\_0009_EstructurasControlIterativo.csproj", "{035039B3-004E-4716-A5E5-8A9C508867DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{5AEF52F4-ADA5-4A4F-8158-9B7255805CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEF52F4-ADA5-4A4F-8158-9B7255805CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEF52F4-ADA5-4A4F-8158-9B7255805CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8AF75B-3A89-4FF7-83CC-F7AC6E01E7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8AF75B-3A89-4FF7-83CC-F7AC6E01E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8AF75B-3A89-4FF7-83CC-F7AC6E01E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8AF75B-3A89-4FF7-83CC-F7AC6E01E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035039B3-004E-4716-A5E5-8A9C508867DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035039B3-004E-4716-A5E5-8A9C508867DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035039B3-004E-4716-A5E5-8A9C508867DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035039B3-004E-4716-A5E5-8A9C508867DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
